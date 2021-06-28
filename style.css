@@ -1,0 +1,68 @@
+body{
+    width: 1920px;
+    height: 2898px;
+    background: #fefefe;   
+}
+
+h1{
+    font-size: 23px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+h4{
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+form{
+    padding: 0 50px;
+}
+
+form label{
+    display: flex;
+    padding-top: 25px;   
+}
+
+form input{
+    width: 100%;
+    padding: 15  px 0;
+    border-radius: 10px;
+}
+
+form small{
+    padding-top: 10px;
+}
+
+.checkbox-container{
+    margin-top: -10px;
+    margin-left: -100px;
+    
+}
+
+.checkmark{
+    margin-top: -10px;
+    margin-left: -100px;
+}
+
+.signup-box{
+    background: rgba(241, 241, 241, 0.5);
+    width: 400px;
+    height: 450px;
+    margin: auto;
+}
+
+p{
+    text-align: center;   
+}
+
+.social-button{
+    width: 400px;
+    margin: auto;
+    justify-content: center;
+}
+
+.social-button input{ 
+    width: 250px; 
+    padding: 15px;
+}
